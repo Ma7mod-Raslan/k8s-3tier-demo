@@ -14,7 +14,7 @@ This repository demonstrates a simple **3-tier architecture** deployed on Kubern
 ---
 
 ## 📂 Structure
-- `manifests/namespace.yml` → Namespace `dev`
+- `manifests/namespace.yml` → Namespace `demo`
 - `manifests/db.yml` → ConfigMap, Secret, PV, PVC, Deployment, Service for Postgres
 - `manifests/backend.yml` → ConfigMap, Deployment, Service for Flask app
 - `manifests/frontend.yml` → ConfigMap (nginx.conf), Deployment, Service (NodePort)
