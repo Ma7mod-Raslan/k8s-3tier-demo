@@ -9,7 +9,7 @@ This repository demonstrates a simple **3-tier architecture** deployed on Kubern
 ---
 
 ## 🏗️ Architecture
-![Architecture Diagram](./diagrams/architecture.png)
+![Architecture Diagram](/diagrams/architecture.png)
 
 ---
 
